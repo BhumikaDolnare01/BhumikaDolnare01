@@ -1,5 +1,5 @@
 # Hi there I'm Bhumika Dolnare
-B.Tech CSE pre-final year student and open-source enthusiast with experience in full-stack web development (MERN). Contributor to GSSOC’25 and Open Source Connect, and currently GDG On Campus Organizer. Vice-President of CodeClub and former member of NECXECELL IIT Bombay. I enjoy building impactful products, leading teams, and working at the intersection of community, code, and collaboration. Core language: Python.
+Intern @fraylon Technology and a B.Tech CSE final year student and open-source enthusiast with experience in full-stack web development (MERN). Contributor to GSSOC’25 and Open Source Connect, and currently GDG On Campus Organizer. Vice-President of CodeClub and former member of NECXECELL IIT Bombay. I enjoy building impactful products, leading teams, and working at the intersection of community, code, and collaboration. Core language: Python.
 
 
 ## 🌐 Socials:
