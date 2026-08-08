@@ -51,9 +51,9 @@ Beyond code, I care about building and growing engineering communities — as **
 
 **🎯 Open To**
 - Software Engineering Roles (Full-Stack / Backend)
+- AI/GenAI & SaaS Product Development
 - Open Source Collaboration
 - Community & Developer Relations Opportunities
-- `[Add: AI/ML or other roles you're targeting]`
 
 </td>
 </tr>
@@ -94,6 +94,7 @@ Beyond code, I care about building and growing engineering communities — as **
 **Cloud, DevOps & Tooling**
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=00C7B7)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -104,53 +105,65 @@ Beyond code, I care about building and growing engineering communities — as **
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🤖 My AI / ML Expertise
 
-> `[This table is a placeholder — fill in with domains/tools you've actually worked with, e.g. NumPy/OpenCV/model type, so it reflects real experience.]`
+My AI/ML work is centered on **building AI into real products**, not just experimenting in isolation. I focus on integrating AI APIs into full-stack applications, developing AI-powered SaaS features, and applying generative AI to solve real-world problems.
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| `[e.g. Computer Vision]` | `[Beginner / Intermediate / Advanced]` | `[e.g. OpenCV-based image processing projects]` |
-| `[e.g. Data Analysis]` | `[Beginner / Intermediate / Advanced]` | `[e.g. NumPy / pandas for data manipulation]` |
-| `[Add more rows as relevant]` | | |
+**Core areas:**
+- AI-powered SaaS product development
+- AI API integration into web applications
+- Generative AI-driven features
+- ML model integration and optimization
+- Product engineering with AI at the core
+
+**Applied through projects like:**
+- **Edvora** — AI-powered features integrated into a full-stack product experience
+- **Crop Disease Prediction** — ML-based prediction system solving a real-world agricultural problem
+- **SigmaGPT** — Generative AI application built around AI API integration
+
+I've also worked hands-on with integrating third-party AI APIs into applications — designing the features and workflows around those APIs rather than just calling them, so AI capability translates into a usable product experience.
 
 ---
 
 ## 🚀 Featured Projects
 
-> `[Add your real repositories below — name, description, and metrics. Placeholder scaffolding shown for structure only.]`
-
 <details>
-<summary><strong>📦 [Project Name]</strong></summary>
+<summary><strong>📦 Edvora</strong></summary>
 <br/>
 
-`[One or two sentence description of what the project does and the problem it solves.]`
+An AI-powered SaaS product incorporating AI-driven features into a full-stack application — built with a product-engineering mindset, focused on turning AI capability into a usable, real-world feature set.
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | `[e.g. React, Node.js, Express, MongoDB]` |
-| **Scale** | `[e.g. users / requests / data volume, if known]` |
-| **Performance** | `[e.g. load time, API latency, if measured]` |
-| **Security** | `[e.g. JWT auth, input validation, if applicable]` |
-| **Impact** | `[e.g. adoption, GSSOC contribution stats, etc.]` |
-| **Repository** | `[Link to repo]` |
+**Highlights:** AI-powered features · SaaS/product development · Full-stack engineering
 
 </details>
 
 <details>
-<summary><strong>📦 [Project Name]</strong></summary>
+<summary><strong>📦 PhantomVision</strong></summary>
 <br/>
 
-`[Description]`
+A project built around real-world engineering problem-solving, developed as part of hands-on full-stack and feature-engineering work.
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | `[...]` |
-| **Scale** | `[...]` |
-| **Performance** | `[...]` |
-| **Security** | `[...]` |
-| **Impact** | `[...]` |
-| **Repository** | `[Link to repo]` |
+**Highlights:** Full-stack engineering · Real-world problem-solving
+
+</details>
+
+<details>
+<summary><strong>📦 Crop Disease Prediction</strong></summary>
+<br/>
+
+An ML-based system built to predict crop disease, solving a real agricultural problem through applied machine learning. Improved model performance to **94% prediction accuracy** through model development, preprocessing, and optimization.
+
+**Highlights:** ML model development · Model optimization · Real-world problem-solving
+
+</details>
+
+<details>
+<summary><strong>📦 SigmaGPT</strong></summary>
+<br/>
+
+A generative AI application built around AI API integration — designing the surrounding product features and workflows so the AI capability translates into a usable end-to-end experience.
+
+**Highlights:** Generative AI · AI API integration · Product engineering
 
 </details>
 
@@ -159,15 +172,10 @@ Beyond code, I care about building and growing engineering communities — as **
 ## 💼 Experience
 
 **Intern — Fraylon Technology**
-`[Add exact date range]`
 
 Working as a software engineering intern, contributing to full-stack development efforts.
 
-- `[Add specific scope of work — e.g. features shipped, modules owned]`
-- `[Add specific scope of work]`
-- `[Add specific scope of work]`
-
-`MERN` `[Add other relevant skill tags]`
+`MERN` `Full-Stack Development` `AI API Integration`
 
 ---
 
@@ -177,11 +185,12 @@ Working as a software engineering intern, contributing to full-stack development
 
 | Recognition | Details |
 |---|---|
+| ML Model Optimization | Improved ML model performance, achieving **94% prediction accuracy** through model development, preprocessing, and optimization |
 | GSSOC'25 Contributor | Open-source contributions under GirlScript Summer of Code 2025 |
 | Open Source Connect Contributor | Active contributor to Open Source Connect initiatives |
 | GDG On Campus Organizer | Leading Google Developer Group community initiatives on campus |
 | Vice-President, CodeClub | Leadership role driving club technical activities |
-| Former Member, NECXECELL, IIT Bombay | `[Add details of role/contribution if you'd like this expanded]` |
+| Former Member, NECXECELL, IIT Bombay | Entrepreneurship cell involvement at IIT Bombay |
 
 </div>
 
@@ -189,36 +198,33 @@ Working as a software engineering intern, contributing to full-stack development
 
 ## 📜 Certifications
 
-> `[Add your real certifications below, grouped by provider, with links. Placeholders shown for structure only — do not publish fabricated certifications.]`
+**Google**
+
+![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) Google Student Ambassador
+
+**Deloitte**
+
+![Deloitte](https://img.shields.io/badge/Deloitte-86BC25?style=flat-square&logo=deloitte&logoColor=white) Data Analytics with GenAI
 
 **AWS**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) `[Add certification name + credential link]`
-
-**Oracle**
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) `[Add certification name + credential link]`
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-8B5CF6?style=flat-square&logo=googlescholar&logoColor=white) `[Add certification name + credential link]`
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) `[Add certification name + credential link]`
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) AWS Solutions Architect
 
 ---
 
-## 🧩 Coding Profiles
-
-> `[Add your real usernames for these to render correctly — placeholders below won't show live stats until updated.]`
+## 💻 Engineering Highlights
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/YOUR_USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_USERNAME)
+| Area | Focus |
+|---|---|
+| Full-Stack Development | MERN stack — building end-to-end web applications |
+| AI / API Integration | Integrating AI APIs into applications and building features around them |
+| SaaS Product Development | Building AI-powered SaaS products (e.g. Edvora) |
+| ML Model Optimization | Model development, preprocessing, and optimization (94% accuracy achieved) |
+| Real-World Problem Solving | Applied engineering projects like Crop Disease Prediction, PhantomVision |
+| Open Source Contribution | GSSOC'25, Open Source Connect |
+| Community-Driven Technical Work | GDG On Campus Organizer, VP of CodeClub |
 
 </div>
 
@@ -271,16 +277,25 @@ Working as a software engineering intern, contributing to full-stack development
 
 ```yaml
 learning:
-  - "[e.g. System Design fundamentals]"
-  - "[e.g. Advanced React patterns]"
+  - "Advanced Development"
+  - "AI & Generative AI"
+
 building:
-  - "[Your current project]"
+  - "Unique real-world problem-solving projects"
+  - "SigmaGPT"
+
 exploring:
-  - "[e.g. AI/ML tooling, DevOps]"
+  - "AI & Advanced Web Development"
+  - "System Design Fundamentals"
+  - "AI/ML tooling"
+  - "DevOps"
+
 open_to:
-  - "Full-Stack Engineering roles"
-  - "Open Source collaboration"
-  - "Community & DevRel opportunities"
+  - "Freelance projects"
+  - "SaaS projects"
+  - "Collaboration opportunities"
+  - "Full-time Software Engineering roles"
+  - "Internship opportunities"
 ```
 
 ---
