@@ -37,8 +37,8 @@ name: "Bhumika Dolnare"
 role: "Software Engineer | Full-Stack Developer"
 education: "B.Tech, Computer Science & Engineering (Final Year)"
 current: "Intern @ Fraylon Technology"
-core_language: "Python"
-focus: ["Full-Stack Engineering (MERN)", "Product Engineering", "Open Source", "Community Leadership"]
+core_language: ["Python", "Javascript"]
+focus: ["Full-Stack Engineering (MERN)", "Freelance", "Open Source", "GenAI, DevOps"]
 ```
 
 I'm a final-year Computer Science student and full-stack developer working across the **MERN stack**, with a strong interest in building products that scale from idea to production. I contribute actively to the open-source ecosystem through **GSSOC'25** and **Open Source Connect**, and currently lead community engineering initiatives as a **GDG On Campus Organizer**.
@@ -54,6 +54,7 @@ Beyond code, I care about building and growing engineering communities — as **
 - AI/GenAI & SaaS Product Development
 - Open Source Collaboration
 - Community & Developer Relations Opportunities
+- Freelance
 
 </td>
 </tr>
